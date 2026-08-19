@@ -2,7 +2,7 @@
 
 ### 📊 Aspiring Data Analyst | AI & Data Analytics | Automation Builder
 
-I'm currently pursuing my **BA from IGNOU** and building my career in **Data Analytics, AI, Business Intelligence & Automation**.
+I'm focused on  building my career in **Data Analytics, AI, Business Intelligence & Automation**.
 
 I enjoy turning raw data into meaningful insights, dashboards, and automated business solutions.
 
@@ -10,7 +10,7 @@ I enjoy turning raw data into meaningful insights, dashboards, and automated bus
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **BA from IGNOU**
+- 🎯 **Passionate about solving real-world problems using Data & Automation**
 - 📊 Learning **Data Analytics & Business Intelligence**
 - 🤖 Exploring **AI + Data Analytics**
 - ⚙️ Learning **n8n & AI Automation**

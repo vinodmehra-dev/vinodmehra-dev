@@ -66,3 +66,5 @@ AI for Data Analytics
 n8n Automation
   ↓
 AI Data Analytics Systems
+
+                                     ⭐ If you like my work, consider following!

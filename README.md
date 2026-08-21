@@ -17,20 +17,6 @@ I enjoy exploring data, discovering actionable patterns, and creating automated 
 - 💡 **Approach:** Learning through practical, project-based implementation
 - 🚀 **Mission:** Delivering data-backed insights and efficient business solutions
 - 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Databases:**  
-`Python` • `SQL`
-
-**Analytics & Visualization:**  
-`Microsoft Excel` • `Power BI` • `Pandas` • `NumPy`
-
-**Automation & AI Tools:**  
-`n8n` • `Make` • `ChatGPT / LLM APIs` • `GitHub`
----
-
-## 🗺️ Learning Roadmap
-
 ```text
 Excel
   │

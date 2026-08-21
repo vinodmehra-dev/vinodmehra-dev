@@ -1,44 +1,40 @@
 # 👋 Hi, I'm Vinod Mehra
 
-### 📊 Aspiring Data Analyst | AI & Data Analytics | Automation Learner
+### 📊 Aspiring Data Analyst | AI & Data Analytics | Automation Builder
 
-I'm at the beginning of my journey into **Data Analytics, Business Intelligence,
-AI, and Automation**.
+I'm focused on building a solid foundation in **Data Analytics, Business Intelligence, and Automation**. 
 
-I'm focused on building strong fundamentals, practicing consistently,
-and developing practical skills step by step.
+I enjoy exploring data, discovering actionable patterns, and creating automated workflows to solve real-world problems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🌱 Beginner in **Data Analytics**
-- 📊 Currently learning **Excel, SQL & Power BI**
-- 🐍 Next: **Python, Pandas & Statistics**
-- 🤖 Interested in **AI + Data Analytics**
-- ⚙️ Future focus: **AI Automation & Business Intelligence**
-- 💻 Learning through hands-on practice
-- 🚀 Long-term goal: Build useful AI-powered data solutions
+- 🎯 **Domain:** Passionate about Data Analytics, Business Intelligence & Automation
+- 🌱 **Current Focus:** Core Analytics — Excel, SQL, and Power BI dashboards
+- 🐍 **Next Milestone:** Python, Pandas, and Applied Statistics for Data Science
+- ⚙️ **Automation Interest:** Exploring n8n, AI APIs, and automated data pipelines
+- 💡 **Approach:** Learning through practical, project-based implementation
+- 🚀 **Mission:** Delivering data-backed insights and efficient business solutions
 
 ---
 
-## 🗺️ My Learning Roadmap
+## 🗺️ Learning Roadmap
 
 ```text
 Excel
-  ↓
-SQL
-  ↓
-Power BI
-  ↓
-Python + Pandas
-  ↓
-Statistics
-  ↓
-AI for Data Analytics
-  ↓
-APIs + Automation
-  ↓
-n8n
-  ↓
-AI-Powered Analytics
+  │
+  ▼
+SQL (Databases & Queries)
+  │
+  ▼
+Power BI (Dashboards & Visualization)
+  │
+  ▼
+Python (Pandas & Data Manipulation)
+  │
+  ▼
+Statistics & EDA
+  │
+  ▼
+AI Tools & Workflow Automation (n8n)
